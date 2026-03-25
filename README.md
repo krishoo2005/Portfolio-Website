@@ -1,20 +1,90 @@
+# 🚀 Portfolio Website – K. Aghade
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 👨‍💻 About the Project
 
-View your app in AI Studio: https://ai.studio/apps/25de00a1-fa98-4c15-9c7f-5372d05dcda8
+This is my personal **portfolio + freelance service website** built to showcase my skills, projects, and practical development experience.
 
-## Run Locally
+The website highlights real-world applications in **Python, Flask, AWS, and IoT**, along with a clean and modern UI designed for both recruiters and clients.
 
-**Prerequisites:**  Node.js
+---
 
+## 🔥 Key Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Responsive modern UI (mobile-friendly)
+* Dark theme with smooth animations
+* Project showcase with real-world implementations
+* Featured project section
+* Contact form for client inquiries
+* Clean and professional layout
+
+---
+
+## 💼 Featured Projects
+
+* ⭐ College Event Management System (with booking & payment system)
+* Flask Skills Tracker (Deployed on AWS EC2)
+* AWS EC2 Production Server Setup
+* Smart Home Automation System (ESP32 & Arduino)
+* Python Automation Scripts
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML, CSS, JavaScript
+* Python (Flask)
+* AWS EC2 (Cloud Deployment)
+* Linux (Ubuntu)
+* Git & GitHub
+
+---
+
+## ⚙️ Getting Started (Run Locally)
+
+### Prerequisites:
+
+* Node.js installed
+
+### Steps:
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Setup environment variables
+   Create a `.env.local` file and add:
+
+   ```env
+   GEMINI_API_KEY=your_api_key_here
+   ```
+
+3. Run the development server
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [krushnaaghade1@gmail.com](mailto:krushnaaghade1@gmail.com)
+* 📞 Phone: +91-7058523994
+
+---
+
+## 💡 Note
+
+This project was developed using modern tools and workflows, including AI-assisted development, and further customized to reflect my personal work and real-world project experience.
+
+---
+
+⭐ If you like this project, feel free to star the repository!
