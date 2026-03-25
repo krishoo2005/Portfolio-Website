@@ -1,18 +1,11 @@
 # 🚀 Portfolio Website – K. Aghade
 
-<div align="center">
-<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
----
 
 ## 👨‍💻 About the Project
 
 This is my personal **portfolio + freelance service website** built to showcase my skills, projects, and practical development experience.
 
 The website highlights real-world applications in **Python, Flask, AWS, and IoT**, along with a clean and modern UI designed for both recruiters and clients.
-
----
 
 ## 🔥 Key Features
 
@@ -23,7 +16,6 @@ The website highlights real-world applications in **Python, Flask, AWS, and IoT*
 * Contact form for client inquiries
 * Clean and professional layout
 
----
 
 ## 💼 Featured Projects
 
@@ -33,8 +25,6 @@ The website highlights real-world applications in **Python, Flask, AWS, and IoT*
 * Smart Home Automation System (ESP32 & Arduino)
 * Python Automation Scripts
 
----
-
 ## 🛠️ Tech Stack
 
 * HTML, CSS, JavaScript
@@ -43,9 +33,8 @@ The website highlights real-world applications in **Python, Flask, AWS, and IoT*
 * Linux (Ubuntu)
 * Git & GitHub
 
----
 
-## ⚙️ Getting Started (Run Locally)
+##  Getting Started (Run Locally)
 
 ### Prerequisites:
 
@@ -72,19 +61,15 @@ The website highlights real-world applications in **Python, Flask, AWS, and IoT*
    npm run dev
    ```
 
----
-
 ## 📬 Contact
 
 * 📧 Email: [krushnaaghade1@gmail.com](mailto:krushnaaghade1@gmail.com)
 * 📞 Phone: +91-7058523994
 
----
 
 ## 💡 Note
 
 This project was developed using modern tools and workflows, including AI-assisted development, and further customized to reflect my personal work and real-world project experience.
 
----
 
 ⭐ If you like this project, feel free to star the repository!
